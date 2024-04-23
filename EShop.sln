@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EShop", "EShop\EShop.csproj", "{431BC0E9-90D6-47AF-97BB-5E6F59289FD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{431BC0E9-90D6-47AF-97BB-5E6F59289FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431BC0E9-90D6-47AF-97BB-5E6F59289FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431BC0E9-90D6-47AF-97BB-5E6F59289FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431BC0E9-90D6-47AF-97BB-5E6F59289FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
